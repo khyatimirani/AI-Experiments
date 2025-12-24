@@ -3,6 +3,7 @@
     "@ai-sdk/anthropic": "^3.0.1",
     "@ai-sdk/google": "^3.0.1",
     "ai": "^6.0.3",
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "js-tiktoken": "^1.0.21"
   }
 }
